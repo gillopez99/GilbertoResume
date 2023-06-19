@@ -24,7 +24,7 @@ class landingPage extends Component {
                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                 </a>
                 {/* Github */}
-                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://github.com/gillopez99" rel="noopener noreferrer" target="_blank">
                     <i className="fa fa-github" aria-hidden="true" />
                 </a>          
             </div>    
