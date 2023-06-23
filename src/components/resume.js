@@ -25,7 +25,7 @@ class Resume extends Component {
                     <p>Enthusiastic and passionate web developer with 2 years of professional experience evaluating, designing, and maintaining web applications. Proficient in Javascript, HTML, and CSS</p>
                     <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
                     <h5>Phone</h5>
-                    <p>(998) 152-2638</p>
+                    <p>(686)946-3327</p>
                     <h5>Email</h5>
                     <p>gil.lopez1231@gmail.com</p>
                     <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
